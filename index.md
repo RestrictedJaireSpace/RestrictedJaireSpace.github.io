@@ -1,7 +1,9 @@
 ## Welcome to my begging page!
+![img](https://media1.tenor.com/images/a4a53d48e5ad58d8b87701745787409b/tenor.gif?itemid=6141124)
+
 Well folks, you know me, I love to make memes. Unfortunately the laptop I use to make memes is severly outdated, which makes editing and rendering a pain and makes some memes that I'd like to make just downright impossible. 
 
-I don't really **need** a better computer for my job or personal life, just this hobby. As it would be difficult to explain to my wife why I splurged on a $1000+ desktop setup that I don't need, I'd be grateful if you chipped in. Anything I don't spend will be donated to Doctors Without Borders.
+I don't really **need** a better computer for my job or personal life, just this hobby. As it would be difficult to explain to my wife that I splurged over $1000 on desktop setup because I'm a self-proclaimed 'Meme Lord', I'd be grateful if you chipped in. Anything I don't spend will be donated to Doctors Without Borders.
 
 ### [Cash App](https://cash.app/$RestrictedJaireSpace)
 ### [Patreon](https://www.patreon.com/RestrictedJaireSpace)
