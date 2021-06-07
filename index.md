@@ -1,37 +1,9 @@
-## Welcome to my money begging page!
+## Welcome to my begging page!
+Well folks, you know me, I love to make memes. Unfortunately the laptop I use to make memes is severly outdated, which makes editing and rendering a pain and makes some memes that I'd like to make just downright impossible. 
 
-You can use the [editor on GitHub](https://github.com/RestrictedJaireSpace/RestrictedJaireSpace.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I don't really **need** a better computer for my job or personal life, just this hobby. As it would be difficult to explain to my wife why I splurged on a $1000+ desktop setup that I don't need, I'd be grateful if you chipped in. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RestrictedJaireSpace/RestrictedJaireSpace.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Patreon](https://www.patreon.com/RestrictedJaireSpace)
+Remember this site only accepts *monthly* donations, so be sure to cancel if you want it to be a one time thing.
+### [Crypto](https://commerce.coinbase.com/checkout/071f97a3-017d-4bb1-89af-05ece4c42b0b)
+This link is for coinbase which supports BTC,ETH,USDC,LTC,DAI,BCH. If you want to donate another type of cryptocurrency just ask me and I'll send you an address.
