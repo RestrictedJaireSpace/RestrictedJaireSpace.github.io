@@ -5,5 +5,9 @@ I don't really **need** a better computer for my job or personal life, just this
 
 ### [Patreon](https://www.patreon.com/RestrictedJaireSpace)
 Remember this site only accepts *monthly* donations, so be sure to cancel if you want it to be a one time thing.
+### [Cash App](https://cash.app/$RestrictedJaireSpace)
 ### [Crypto](https://commerce.coinbase.com/checkout/071f97a3-017d-4bb1-89af-05ece4c42b0b)
 This link is for coinbase which supports BTC,ETH,USDC,LTC,DAI,BCH. If you want to donate another type of cryptocurrency just ask me and I'll send you an address.
+###Message Me
+You can find me on twitter [@JaireSpace](https://twitter.com/JaireSpace) or reddit [u/RestrictedJaireSpace](https://www.reddit.com/user/RestrictedJaireSpace)
+You can find everything I post at [r/RestrictedJaireSpace](https://www.reddit.com/user/RestrictedJaireSpace)
