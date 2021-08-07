@@ -1,7 +1,7 @@
 ## Welcome to my begging page!
 ![img](https://media1.tenor.com/images/a4a53d48e5ad58d8b87701745787409b/tenor.gif?itemid=6141124)
 
-Well folks, you know me, I love to make memes. Unfortunately the laptop I use to make memes is now on it's last legs. It was already pretty old and underpowered for what I was doing with it, but things have taken a turn for the worst recently.
+Well folks, you know me, I love to make memes. Unfortunately the laptop I use to make memes is now on its last legs. It was already pretty old and underpowered for what I was doing with it, but things have taken a turn for the worst recently.
 
 The computer market is pretty crazy right now but I'd like to get something at least somewhat powerful. I'm planning on saving up for the next couple months and hopefully buying something by early 2022. If you can help in any way, that would be awesome. If not, I still love you anyway. Anything I don't spend will be donated to Doctors Without Borders.
 
